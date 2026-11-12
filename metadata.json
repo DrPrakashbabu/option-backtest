@@ -1,0 +1,6 @@
+{
+  "name": "Nifty50 Multi-Leg Options Backtester & Strategy Terminal",
+  "description": "High-performance multi-leg option strategy backtesting terminal for Nifty 50 with Python computation engine, interactive payoff diagrams, Greeks analysis, and historical data visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
